@@ -60,6 +60,16 @@ body {
 #alignRight {
   text-align: right; }
 
+#alignCenter {
+  align-items: center;
+}
+
+.WildPic {
+  width: 150%;
+  margin-left: 90pt;
+}
+
+
 header {
   margin-top: 56px;
   width: 100%;
@@ -247,7 +257,7 @@ h2 {
       justify-content: space-between;
     }
     .year .UsualBlockSmallImgRight img {
-      width: 325px;
+      width: 360px;
       height: 250px;
       margin-top: 0px;
     }
