@@ -408,6 +408,14 @@ h2 {
     padding-right: 178px;
     line-height: 2; }
 
+.footer .credits a {
+  font-family: "IBM Plex Mono";
+  font-size: 20px;
+  color: #E9B0D6;
+  padding-right: 178px;
+  line-height: 2;
+}
+
 .reversed {
   -webkit-box-orient: horizontal;
   -webkit-box-direction: reverse;
